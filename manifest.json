@@ -1,6 +1,6 @@
 {
-    "name": "add_signature_to_pdf_app",
-    "short_name": "add_signature_to_pdf_app",
+    "name": "request_defendant_info",
+    "short_name": "request_defendant_info",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
